@@ -68,6 +68,10 @@ All public domain or public reporting:
 - **DC DOEE** — Potomac Interceptor Update and FAQs
 - **Chesapeake Bay Program Data Hub** — [datahub.chesapeakebay.net](https://datahub.chesapeakebay.net/)
 
+## Acknowledgments
+
+This repository — notebooks, documentation, and scaffolding — was developed in collaboration with Claude Opus 4.7 (Anthropic).
+
 ## License
 
 MIT for code in this repo · Apache-2.0 for the underlying dataset.
