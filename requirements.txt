@@ -1,0 +1,15 @@
+# Python 3.11 baseline.
+# Notebooks that use OlmoEarth embeddings or remote sensing rasters
+# additionally require: rasterio einops rslearn olmoearth_pretrain
+# Install those as needed inside the notebook.
+
+jupyter
+notebook
+pandas
+geopandas
+matplotlib
+scikit-learn
+datasets
+huggingface_hub
+shapely
+pyproj
