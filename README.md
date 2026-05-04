@@ -27,10 +27,10 @@ Hands-on Jupyter notebooks for analyzing the January 19, 2026 Potomac Intercepto
 
 | # | Notebook | Purpose |
 |---|---|---|
-| 01 | `demo_event_overlay.ipynb` | Quick visualization: flow timelines + event overlay |
-| 02 | `data_prep_reproduce.ipynb` | End-to-end dataset reproduction from raw USGS + agency sources |
-| 03 | `tutorial_plume_context.ipynb` | Plume tracking context — interpreting flow + agency data |
-| 04 | `analysis_event_log.ipynb` | Event log analysis and synthesis across the 4 phases |
+| 01 | `01_demo.ipynb` | Flow timelines + event overlay + corridor map |
+| 02 | `02_data_prep.ipynb` | End-to-end dataset reproduction from raw USGS + agency sources |
+| 03 | `03_tutorial_embeddings.ipynb` | OlmoEarth embeddings on real Sentinel-1 RTC for per-AOI plume tracking |
+| 04 | `04_analysis.ipynb` | Event-log + discharge-anomaly synthesis across the 4 phases |
 
 ## Quick Start
 
